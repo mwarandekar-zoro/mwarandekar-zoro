@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:6D28D9&height=220&section=header&text=Manthan%20Warandekar&fontSize=48&fontColor=E0E7FF&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:6D28D9&height=220&section=header&text=Manthan%20Warandekar&fontSize=48&fontColor=E0E7FF&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20-%20Developer%20-%20Data%20and%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-world+projects+with+Python+%2B+AI;Turning+ideas+into+working+applications;Currently+exploring+Data+Analytics+%26+LLMs;SAKEC+%E2%80%A2+Information+Technology" alt="Typing SVG" />
@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-warandekar-4a678a358/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwarandekar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mwarandekar--zoro-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mwarandekar-zoro)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Roronoa__Zoro9-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Roronoa_Zoro9/)
 
@@ -232,8 +232,8 @@ An animated version of my contribution graph, regenerated automatically every da
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mwarandekar--zoro-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/mwarandekar-zoro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/manthan-warandekar-4a678a358/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:mwarandekar@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Roronoa__Zoro9-0D1117?style=for-the-badge&logo=leetcode&logoColor=8B5CF6)](https://leetcode.com/u/Roronoa_Zoro9/)
 
 </div>
