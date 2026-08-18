@@ -175,7 +175,7 @@ Additional projects and experiments — including algorithm practice, small buil
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwarandekar-zoro&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=E0E7FF&sideNums=E0E7FF&dates=6B7280" />
+<img src="https://streak-stats.demolab.com/?user=mwarandekar-zoro&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=E0E7FF&sideNums=E0E7FF&dates=6B7280" />
 
 <br/>
 
